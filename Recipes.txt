@@ -4,3 +4,12 @@ Welcome to Test Recipe
 Pasta
 Pizza
 Burger
+
+Chicken Recipes
+ - Chicken Handi
+ - Chicken Schwezwan
+ - Chicken Lollypop
+ - Butter Chicken
+ - Chicken Korma
+ - Chicken 65
+ - Chicken Tandoori  
