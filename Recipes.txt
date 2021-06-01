@@ -11,3 +11,5 @@ Chicken Recipes
  - Chicken Lollypop
  - Butter Chicken
  - Chicken Korma
+ - Chicken 65
+ - Chicken Tandoori  
